@@ -2,7 +2,7 @@
 
 Overview
 ---
-- `writeup.md` : my writeup
+- `writeup.md` : my writeup [link](https://github.com/zxf8665905/LaneLinesDetection/blob/master/writeup.md)
 - `processImage.py`  : core code
 - `*.mp4` : some test vedio.
 
