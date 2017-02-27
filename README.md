@@ -3,9 +3,9 @@
 Overview
 ---
 - `writeup.md` : my writeup [link](https://github.com/zxf8665905/LaneLinesDetection/blob/master/writeup.md)
-- `processImage.ipynb` : test case [link](https://github.com/zxf8665905/LaneLinesDetection/blob/master/processImage.ipynb)
+- `P1.ipynb` : test case [link](https://github.com/zxf8665905/LaneLinesDetection/blob/master/processImage.ipynb)
 - `processImage.py`  : core code
-- `*.mp4` : some test vedio.
+- `./test_output_vedio` : put some test output vedio.
 
 ## How to run
 You can run **Lane Line Finding** program in command line:
